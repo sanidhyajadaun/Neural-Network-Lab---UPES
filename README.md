@@ -27,3 +27,8 @@ Experiment No 3- Building neural networks from scratch.
 Experiment No 4- Building a single layer perceptron without using any framework
 
 #
+
+Experiment No 5- Implementation of Convolution neural networks <br>
+- Demonstrate the implementation Conv, Pool, Activation, Fully connected layers
+
+#
