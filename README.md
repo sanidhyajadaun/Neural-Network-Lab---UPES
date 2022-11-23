@@ -32,3 +32,8 @@ Experiment No 5- Implementation of Convolution neural networks <br>
 - Demonstrate the implementation Conv, Pool, Activation, Fully connected layers
 
 #
+
+Experiment No 6-Implementation of RNN
+- Program to demonstrate text classification using RNN
+
+#
