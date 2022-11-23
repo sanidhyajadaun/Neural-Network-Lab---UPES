@@ -37,3 +37,6 @@ Experiment No 6-Implementation of RNN
 - Program to demonstrate text classification using RNN
 
 #
+
+Experiment No 7- Implementation LSTM
+- Program to demonstrate sentiment classification using LSTM
